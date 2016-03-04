@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_id": "test-7b580",
+    "project_number": "541216966592",
+    "name": "Test"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541216966592:android:c68f8b7a0c2a6883",
+        "client_id": "android:com.example.anand.socialnetworklogin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.anand.socialnetworklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541216966592-lkh8m4s2rm2nimjb2elro59v4t6hf6o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anand.socialnetworklogin",
+            "certificate_hash": "483D917BD2E1C37A1CFC111D0D247DC01AE6149F"
+          }
+        },
+        {
+          "client_id": "541216966592-mcbti3fs18fna5444av0065ppiav7hkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

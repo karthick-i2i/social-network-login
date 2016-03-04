@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialNetworkLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">899256336857561</string>
+    <string name="server_client_id">541216966592-mcbti3fs18fna5444av0065ppiav7hkj.apps.googleusercontent.com</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+
+</resources>
